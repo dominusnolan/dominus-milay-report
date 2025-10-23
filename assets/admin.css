@@ -1,0 +1,43 @@
+.dmr-wrap .dmr-year-filter {
+  margin: 12px 0 20px;
+}
+
+.dmr-table-wrap {
+  overflow-x: auto;
+  margin-top: 10px;
+}
+
+.dmr-table th, .dmr-table td {
+  vertical-align: middle;
+}
+
+.dmr-table td.center, .dmr-table th.center {
+  text-align: center;
+}
+
+.dmr-table td.strong {
+  font-weight: 600;
+}
+
+.dmr-engineer {
+  min-width: 200px;
+}
+
+.dmr-engineer-name {
+  font-weight: 600;
+  margin-bottom: 6px;
+}
+
+.dmr-engineer-avatar .dmr-avatar,
+.dmr-engineer-avatar img.avatar {
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.dmr-top-engineer .dmr-engineer-name {
+  font-size: 13px;
+}
+
+.dmr-num {
+  white-space: nowrap;
+}
